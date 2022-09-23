@@ -2,6 +2,12 @@
 
 Repo for the Music composer project
 
+## Team members
+
+|Member|  NUID| email | github username
+|-------|--| -- | -- |
+|      Ebenezer Ajay Williams | 002166250  | vincentsankeyraj.e@northeastern.edu | ebiskhan123
+|      Abhinav Palem | 002791224  | palem.a@northeastern.edu | abhinav250997
 ## Database description
 The Database comprises of 3 tables 
 - The Spotify - All Time Top 2000s Mega Dataset  (https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset)
